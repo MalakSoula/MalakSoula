@@ -1,4 +1,4 @@
-**Bioinformatics and Artificial Intelligence Student | Aspiring Data Scientist**
+# **Bioinformatics and Artificial Intelligence Student | Aspiring Data Scientist**
 
 ---
 
