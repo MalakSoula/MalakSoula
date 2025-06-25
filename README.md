@@ -12,7 +12,7 @@
   <a href="https://github.com/MalakSoula">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
-  <a href="https://github.com/MalakSoula/MalakSoula/raw/main/updated_Malak's resume.pdf">
+  <a href="https://github.com/MalakSoula/raw/main/updated_Malak's resume.pdf">
     <img src="https://img.shields.io/badge/Download_CV-0A66C2?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Download CV"/>
   </a>
 </p>
